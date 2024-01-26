@@ -1,5 +1,5 @@
-Nama : Dava Wisda Putra 
-NIM : 20220801221
+Nama :Muhammad Rizky Nur Fajar
+NIM : 20220801165
 
 
 Link proses pengerjaan UAS BASIS DATA
